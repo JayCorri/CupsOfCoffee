@@ -42,7 +42,7 @@ public class CupsOfCoffee {
 		System.out.println("That will be " + Total + ", and how will you be paying for that?\nType M if you are paying with cash.\nType C if you are paying by credit Card.\nType S if you will be using store credit.\nType G if you are paying with gold.");
 		String payOption = keyboard.next();
 		
-		//temporary test program thus far
+		//test program thus far
 		System.out.print(payOption);
 
 		
